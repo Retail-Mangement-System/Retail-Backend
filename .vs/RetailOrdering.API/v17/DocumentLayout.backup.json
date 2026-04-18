@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\munir\\source\\repos\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260418064920_Initail-Setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\models\\loyaltyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:models\\loyaltyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\dtos\\inventory\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:dtos\\inventory\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\dtos\\product\\productfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\productfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|c:\\users\\munir\\source\\repos\\retail-backend\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260418064920_Initail-Setup.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260418064920_Initail-Setup.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
+              "RelativeToolTip": "Migrations\\20260418064920_Initail-Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:49:20.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoyaltyAccount.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Models\\LoyaltyAccount.cs",
+              "RelativeDocumentMoniker": "Models\\LoyaltyAccount.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Models\\LoyaltyAccount.cs",
+              "RelativeToolTip": "Models\\LoyaltyAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:48:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwHYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:47:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:44:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T06:35:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:34:38.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Common\\PagedResult.cs",
+              "RelativeToolTip": "Common\\PagedResult.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:33:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:33:16.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "Repositories\\InventoryRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:29:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:29:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:29:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:28:58.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:24:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:23:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Inventory\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Inventory\\InventoryDto.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Inventory\\InventoryDto.cs",
+              "RelativeToolTip": "DTOs\\Inventory\\InventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:23:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\ProductFilterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\ProductFilterDto.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\ProductFilterDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\ProductFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:23:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:23:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:22:41.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:22:24.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:54.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:26.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:19:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:53:49.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
