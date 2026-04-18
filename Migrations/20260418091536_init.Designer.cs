@@ -12,8 +12,8 @@ using RetailOrdering.API.Data;
 namespace RetailOrdering.API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260418064920_Initail-Setup")]
-    partial class InitailSetup
+    [Migration("20260418091536_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -211,11 +211,11 @@ namespace RetailOrdering.API.Migrations
 
             modelBuilder.Entity("RetailOrdering.API.Models.LoyaltyAccount", b =>
                 {
-                    b.Property<int>("LoyaltyAccountId")
+                    b.Property<int>("LoyaltyId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("LoyaltyAccountId"));
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("LoyaltyId"));
 
                     b.Property<DateTime>("LastUpdated")
                         .HasColumnType("datetime(6)");
@@ -226,7 +226,7 @@ namespace RetailOrdering.API.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("LoyaltyAccountId");
+                    b.HasKey("LoyaltyId");
 
                     b.HasIndex("UserId")
                         .IsUnique();
