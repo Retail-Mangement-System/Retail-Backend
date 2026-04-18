@@ -1,0 +1,18 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace RetailOrdering.API.DTOs.Auth
+{
+    public class UpdateProfileDto
+    {
+        [StringLength(100, MinimumLength = 2, ErrorMessage = "Name must be between 2 and 100 characters")]
+        public string? FullName { get; set; }
+
+        [EmailAddress(ErrorMessage = "Invalid email format")]
+        public string? Email { get; set; }
+
+        [Phone(ErrorMessage = "Invalid phone number")]
+        public string? Phone { get; set; }
+
+        public string? Address { get; set; }
+    }
+}

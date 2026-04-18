@@ -2,9 +2,26 @@
 
 public static class PasswordHelper
 {
-    public static string HashPassword(string password) =>
-        BCrypt.Net.BCrypt.HashPassword(password, workFactor: 12);
+    /// <summary>
+    /// Hashes a plain-text password using BCrypt.
+    /// </summary>
+    public static string HashPassword(string plainPassword)
+    {
+        if (string.IsNullOrWhiteSpace(plainPassword))
+            throw new ArgumentException("Password cannot be empty.");
 
-    public static bool VerifyPassword(string password, string hash) =>
-        BCrypt.Net.BCrypt.Verify(password, hash);
+        // WorkFactor 12 is the recommended default — balances security & speed
+        return BCrypt.Net.BCrypt.HashPassword(plainPassword, workFactor: 12);
+    }
+
+    /// <summary>
+    /// Verifies a plain-text password against a BCrypt hash.
+    /// </summary>
+    public static bool VerifyPassword(string plainPassword, string hashedPassword)
+    {
+        if (string.IsNullOrWhiteSpace(plainPassword) || string.IsNullOrWhiteSpace(hashedPassword))
+            return false;
+
+        return BCrypt.Net.BCrypt.Verify(plainPassword, hashedPassword);
+    }
 }
