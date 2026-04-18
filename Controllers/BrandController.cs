@@ -17,11 +17,11 @@ public class BrandController : ControllerBase
     }
 
     /// <summary>GET /api/brands — list all brands (public)</summary>
-    [HttpGet]
-    [AllowAnonymous]
-    public async Task<IActionResult> GetAll()
-    {
-        var brands = await _productService.GetBrandsAsync();
-        return Ok(ApiResponse<IEnumerable<BrandDto>>.Ok(brands));
-    }
+    //[HttpGet]
+    //[AllowAnonymous]
+    //public async Task<IActionResult> GetAll()
+    //{
+    //    var brands = await _productService.GetBrandsAsync();
+    //    return Ok(ApiResponse<IEnumerable<BrandDto>>.Ok(brands));
+    //}
 }
