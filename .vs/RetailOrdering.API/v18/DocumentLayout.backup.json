@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|solutionrelative:common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4C8A03A-016E-4145-BE59-1FE8CC7F2F70}|RetailOrdering.API.csproj|d:\\sabeenafolder\\team\\retail-ordering-website\\retail-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -122,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,84 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwD4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:27:37.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Services\\OrderService.cs",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\OrderService.cs",
-              "RelativeToolTip": "Services\\OrderService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:25:55.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:25:43.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
               "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\CartRepository.cs",
               "RelativeToolTip": "Repositories\\CartRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T08:14:17.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
+              "DocumentIndex": 3,
+              "Title": "20260418064920_Initail-Setup.cs",
+              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260418064920_Initail-Setup.cs",
+              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
+              "RelativeToolTip": "Migrations\\20260418064920_Initail-Setup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-18T08:11:35.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Common\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Common\\ApiResponse.cs",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Common\\ApiResponse.cs",
-              "RelativeToolTip": "Common\\ApiResponse.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:11:35.144Z",
+              "WhenOpened": "2026-04-18T08:11:34.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -223,19 +160,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20260418064920_Initail-Setup.cs",
-              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260418064920_Initail-Setup.cs",
-              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Migrations\\20260418064920_Initail-Setup.cs",
-              "RelativeToolTip": "Migrations\\20260418064920_Initail-Setup.cs",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:11:34.913Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T08:11:35.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
@@ -247,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "InventoryRepository.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\InventoryRepository.cs",
@@ -255,11 +192,12 @@
               "RelativeToolTip": "Repositories\\InventoryRepository.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:11:35.147Z"
+              "WhenOpened": "2026-04-18T08:11:35.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
@@ -267,11 +205,12 @@
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T08:11:35.149Z"
+              "WhenOpened": "2026-04-18T08:11:35.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -283,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "LoyaltyAccount.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Models\\LoyaltyAccount.cs",
               "RelativeDocumentMoniker": "Models\\LoyaltyAccount.cs",
@@ -295,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Common\\PagedResult.cs",
               "RelativeDocumentMoniker": "Common\\PagedResult.cs",
@@ -307,7 +246,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Common\\ApiResponse.cs",
+              "ToolTip": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:11:35.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IInventoryRepository.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\Interfaces\\IInventoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IInventoryRepository.cs",
@@ -319,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Repositories\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
@@ -331,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "InventoryService.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\InventoryService.cs",
               "RelativeDocumentMoniker": "Services\\InventoryService.cs",
@@ -343,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "IInventoryService.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\Interfaces\\IInventoryService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IInventoryService.cs",
@@ -355,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "InventoryDto.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\DTOs\\Inventory\\InventoryDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Inventory\\InventoryDto.cs",
@@ -367,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "ProductFilterDto.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\DTOs\\Product\\ProductFilterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Product\\ProductFilterDto.cs",
@@ -379,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\DTOs\\Product\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Product\\CreateProductDto.cs",
@@ -391,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\DTOs\\Product\\ProductDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Product\\ProductDto.cs",
@@ -403,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "InventoryController.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
@@ -415,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
@@ -427,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -439,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "BrandController.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
@@ -451,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -463,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
