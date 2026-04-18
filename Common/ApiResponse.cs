@@ -17,4 +17,7 @@ public class ApiResponse<T>
     // Alias used by ExceptionMiddleware
     public static ApiResponse<T> Fail(string message)
         => FailResult(message);
+
+    public static ApiResponse<T> Ok(T? data, string message = "")
+      => SuccessResult(data, message);
 }

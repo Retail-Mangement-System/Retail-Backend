@@ -4183,23 +4183,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\munir\\.nuget\\packages\\": {},
+    "C:\\Users\\Sabeenamuki\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\RetailOrdering.API.csproj",
+      "projectUniqueName": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\RetailOrdering.API.csproj",
       "projectName": "RetailOrdering.API",
-      "projectPath": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\RetailOrdering.API.csproj",
-      "packagesPath": "C:\\Users\\munir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\munir\\source\\repos\\Retail-Backend\\obj\\",
+      "projectPath": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\RetailOrdering.API.csproj",
+      "packagesPath": "C:\\Users\\Sabeenamuki\\.nuget\\packages\\",
+      "outputPath": "D:\\SabeenaFolder\\Team\\Retail-ordering-Website\\Retail-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\munir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sabeenamuki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4308,6 +4308,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4316,7 +4334,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
