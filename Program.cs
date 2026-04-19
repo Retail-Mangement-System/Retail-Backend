@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using RetailOrdering.API.Data;
+using RetailOrdering.API.Helpers;
 using RetailOrdering.API.Middleware;
 using RetailOrdering.API.Repositories;
 using RetailOrdering.API.Repositories.Interfaces;
@@ -76,7 +77,8 @@ builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IPromotionService, PromotionService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
-
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddSingleton<JwtHelper>();
 //  Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c => {
@@ -121,7 +123,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json",
                                              "Retail Ordering API v1"));
 }
-
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    await DbSeeder.SeedDefaultAdminAsync(dbContext);
+}
 app.UseHttpsRedirection();
 app.UseCors("AllowAngular");
 app.UseAuthentication();
