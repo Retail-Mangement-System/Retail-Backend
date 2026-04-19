@@ -123,5 +123,15 @@ public class AppDbContext : DbContext
             .Property(oi => oi.UnitPrice).HasPrecision(10, 2);
         modelBuilder.Entity<Coupon>()
             .Property(c => c.DiscountPercent).HasPrecision(5, 2);
+
+
+        modelBuilder.Entity<LoyaltyAccount>()
+            .HasKey(la => la.LoyaltyAccountId);              // ← add this line
+
+        // The existing 1:1 relationship config stays as-is below it:
+        modelBuilder.Entity<LoyaltyAccount>()
+            .HasOne(la => la.User)
+            .WithOne(u => u.LoyaltyAccount)
+            .HasForeignKey<LoyaltyAccount>(la => la.UserId);
     }
 }

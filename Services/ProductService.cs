@@ -1,5 +1,7 @@
 ﻿using RetailOrdering.API.Common;
 using RetailOrdering.API.DTOs.Product;
+using RetailOrdering.API.DTOs.Brand;
+using RetailOrdering.API.DTOs.Category;
 using RetailOrdering.API.Models;
 using RetailOrdering.API.Repositories.Interfaces;
 using RetailOrdering.API.Services.Interfaces;

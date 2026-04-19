@@ -1,5 +1,7 @@
 ﻿using RetailOrdering.API.Common;
 using RetailOrdering.API.DTOs.Product;
+using RetailOrdering.API.DTOs.Category;
+using RetailOrdering.API.DTOs.Brand;
 
 namespace RetailOrdering.API.Services.Interfaces;
 
@@ -12,18 +14,4 @@ public interface IProductService
     Task<bool> DeleteAsync(int productId);
     Task<IEnumerable<CategoryDto>> GetCategoriesAsync();
     Task<IEnumerable<BrandDto>> GetBrandsAsync();
-}
-
-public class CategoryDto
-{
-    public int CategoryId { get; set; }
-    public string CategoryName { get; set; } = string.Empty;
-    public string Description { get; set; } = string.Empty;
-}
-
-public class BrandDto
-{
-    public int BrandId { get; set; }
-    public string BrandName { get; set; } = string.Empty;
-    public string Description { get; set; } = string.Empty;
 }
