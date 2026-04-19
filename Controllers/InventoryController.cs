@@ -8,7 +8,8 @@ namespace RetailOrdering.API.Controllers;
 
 [ApiController]
 [Route("api/inventory")]
-[Authorize(Roles = "Admin")]
+//[Authorize(Roles = "Admin")]
+[AllowAnonymous]
 public class InventoryController : ControllerBase
 {
     private readonly IInventoryService _inventoryService;

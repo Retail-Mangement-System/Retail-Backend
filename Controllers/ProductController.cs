@@ -8,6 +8,7 @@ namespace RetailOrdering.API.Controllers;
 
 [ApiController]
 [Route("api/products")]
+[AllowAnonymous]
 public class ProductController : ControllerBase
 {
     private readonly IProductService _productService;
@@ -40,7 +41,7 @@ public class ProductController : ControllerBase
 
     /// <summary>POST /api/products — create product (Admin only)</summary>
     [HttpPost]
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     public async Task<IActionResult> Create([FromBody] CreateProductDto dto)
     {
         if (!ModelState.IsValid)
@@ -53,7 +54,7 @@ public class ProductController : ControllerBase
 
     /// <summary>PUT /api/products/{id} — update product (Admin only)</summary>
     [HttpPut("{id:int}")]
-    [Authorize(Roles = "Admin")]
+   // [Authorize(Roles = "Admin")]
     public async Task<IActionResult> Update(int id, [FromBody] CreateProductDto dto)
     {
         if (!ModelState.IsValid)
@@ -68,7 +69,7 @@ public class ProductController : ControllerBase
 
     /// <summary>DELETE /api/products/{id} — delete product (Admin only)</summary>
     [HttpDelete("{id:int}")]
-    [Authorize(Roles = "Admin")]
+   // [Authorize(Roles = "Admin")]
     public async Task<IActionResult> Delete(int id)
     {
         var deleted = await _productService.DeleteAsync(id);
