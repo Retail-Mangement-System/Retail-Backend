@@ -83,13 +83,10 @@ builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IPromotionService, PromotionService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
-<<<<<<< HEAD
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-=======
+
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddSingleton<JwtHelper>();
->>>>>>> origin/dev
+
 //  Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c => {
